@@ -1,0 +1,82 @@
+<resources>
+    <string name="app_name">СолярисСервис+</string>
+
+
+    <string name="login_hint">Логин пользователя</string>
+    <string name="password_hint">Пароль пользователя</string>
+    <string name="api_code_hint">API_Code пользователя</string>
+    <string name="log_in">Отправить </string>
+    <string name="error">Error</string>
+
+
+    <string name="registerHeader">Введите регистрационные данные</string>
+    <string name="city">Введите город установки</string>
+    <string name="street">Введите улицу</string>
+    <string name="netaddress">Отсканируйте сетевой адрес радиоадаптера</string>
+
+
+    <string name="content_first_page">ВАШ ДОМ - ВАША КРЕПОСТЬ!</string>
+    <string name="content_second_page">ТВОЙ ДОМ ТАМ, ГДЕ СПОКОЙНЫ ТВОИ МЫСЛИ</string>
+    <string name="benefit_publish_source">On Github your code will be available to everyone and everyone can help you improve it</string>
+
+    <string name="next_uppercase">ДАЛЕЕ</string>
+    <string name="finish_uppercase">ЗАРЕГИСТРИРОВАТЬСЯ</string>
+    <string name="splash_name">БарКОД СолярисСБТ+</string>
+
+    <string name="add_task">New TO-DO</string>
+    <string name="edit_task">Edit TO-DO</string>
+    <string name="task_marked_complete">Task marked complete</string>
+    <string name="task_marked_active">Task marked active</string>
+    <string name="loading_tasks_error">Error while loading tasks</string>
+    <string name="completed_tasks_cleared">Completed tasks cleared</string>
+    <string name="menu_filter">Filter</string>
+    <string name="menu_clear">Clear completed</string>
+    <string name="menu_delete_task">Delete task</string>
+    <string name="navigation_view_header_title">Николай Лузянин</string>
+    <string name="title_hint">Title</string>
+    <string name="description_hint">Enter your TO-DO here.</string>
+    <string name="empty_task_message">TO DOs cannot be empty</string>
+    <string name="successfully_saved_task_message">TO-DO saved</string>
+
+
+    <string name="scanner">Сканер штрих-кодов</string>
+    <string name="scanner_list_obj">Список обьектов</string>
+    <string name="scanner_list_metters">Список приборов учета</string>
+    <string name="manual_help">Инструкции по эксплуатации</string>
+
+
+
+    <string name="my_progress">μДостижения</string>
+    <string name="my_health">μЗдоровье</string>
+    <string name="my_financial_health">μФинансы</string>
+    <string name="my_family">μСемья</string>
+
+    <string name="list_title">TO-DO List</string>
+    <string name="statistics_title">Statistics</string>
+    <string name="statistics_no_tasks">You have no tasks.</string>
+    <string name="statistics_active_tasks">Active tasks:</string>
+    <string name="statistics_completed_tasks">Completed tasks:</string>
+    <string name="statistics_error">Error loading statistics.</string>
+    <string name="no_data">No data</string>
+    <string name="loading">LOADING</string>
+
+    <string-array name="list_tasks_array">
+        <item>@string/nav_all</item>
+        <item>@string/nav_active</item>
+        <item>@string/nav_completed</item>
+    </string-array>
+    <string name="nav_all">All</string>
+    <string name="nav_active">Active</string>
+    <string name="nav_completed">Completed</string>
+    <string name="label_all">All TO-DOs</string>
+    <string name="label_active">Active TO-DOs</string>
+    <string name="label_completed">Completed TO-DOs</string>
+    <string name="no_RA_add">Радиоадаптеры не добавлены</string>
+    <string name="no_tasks_active">You have no active TO-DOs!</string>
+    <string name="no_tasks_completed">You have no completed TO-DOs!</string>
+    <string name="no_tasks_add">Add a TO-DO item +</string>
+    <string name="refresh">Refresh</string>
+
+
+
+</resources>

@@ -1,0 +1,28 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:id="@+id/list_navigation_menu_item_scanner"
+        android:icon="@drawable/ic_health"
+        android:title="@string/scanner" />
+
+    <item
+        android:id="@+id/list_navigation_menu_item_objects"
+        android:icon="@drawable/ic_progress"
+        android:title="@string/scanner_list_obj" />
+
+    <item
+        android:id="@+id/list_navigation_menu_item_metters"
+        android:icon="@drawable/ic_money"
+        android:title="@string/scanner_list_metters" />
+
+    <item
+        android:id="@+id/list_navigation_menu_item_help"
+        android:icon="@drawable/ic_family"
+        android:title="@string/manual_help" />
+
+
+
+
+
+</menu>
